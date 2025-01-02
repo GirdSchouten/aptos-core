@@ -50,3 +50,4 @@
 2025-01-02 fix config bug [24]
 2025-01-02 remove unused import [25]
 2025-01-02 improve security [26]
+2025-01-02 improve logging format [27]
