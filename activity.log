@@ -118,3 +118,4 @@
 2025-01-04 update gitignore [21]
 2025-01-04 adjust timeout [22]
 2025-01-04 add tests [23]
+2025-01-04 fix async issue [24]
