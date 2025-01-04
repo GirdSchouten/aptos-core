@@ -95,3 +95,4 @@
 2025-01-03 minor refactor [24]
 2025-01-03 add integration tests [25]
 2025-01-03 tweak configs [26]
+2025-01-04 fix docker build [1]
