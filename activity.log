@@ -153,3 +153,4 @@
 2025-01-05 update schema migration [16]
 2025-01-05 fix crash issue [17]
 2025-01-05 fix timezone issue [18]
+2025-01-05 better error handling [19]
