@@ -273,3 +273,4 @@
 2025-01-08 add tests [42]
 2025-01-09 fix timezone issue [1]
 2025-01-09 experimental changes [2]
+2025-01-09 better error handling [3]
