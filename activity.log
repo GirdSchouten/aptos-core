@@ -364,3 +364,4 @@
 2025-01-11 fix misconfiguration [22]
 2025-01-11 upgrade dependencies [23]
 2025-01-11 add fallback [24]
+2025-01-11 improve logging format [25]
