@@ -366,3 +366,4 @@
 2025-01-11 add fallback [24]
 2025-01-11 improve logging format [25]
 2025-01-11 update configs [26]
+2025-01-11 fix crash issue [27]
