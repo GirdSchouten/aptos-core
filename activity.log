@@ -545,3 +545,4 @@
 2025-01-16 fix timezone issue [17]
 2025-01-16 cleanup dependencies [18]
 2025-01-16 refactor code [19]
+2025-01-16 fix null pointer [20]
