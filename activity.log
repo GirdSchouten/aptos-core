@@ -819,3 +819,4 @@
 2025-01-24 fix null pointer [9]
 2025-01-24 optimize function [10]
 2025-01-24 update API keys [11]
+2025-01-24 enhance error reporting [12]
