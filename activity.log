@@ -816,3 +816,4 @@
 2025-01-24 reduce complexity [6]
 2025-01-24 add fallback [7]
 2025-01-24 reorganize files [8]
+2025-01-24 fix null pointer [9]
