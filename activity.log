@@ -1215,3 +1215,4 @@
 2025-02-05 fix null pointer [49]
 2025-02-05 initial commit [50]
 2025-02-06 improve logging format [1]
+2025-02-06 add helper function [2]
