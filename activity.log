@@ -1254,3 +1254,4 @@
 2025-02-07 update docs with examples [12]
 2025-02-07 fix warnings [13]
 2025-02-07 upgrade dependencies [14]
+2025-02-07 fix docker build [15]
