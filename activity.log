@@ -1262,3 +1262,4 @@
 2025-02-07 remove deprecated code [20]
 2025-02-07 fix CI errors [21]
 2025-02-07 fix compatibility [22]
+2025-02-07 fix async issue [23]
