@@ -1415,3 +1415,4 @@
 2025-02-12 enhance logging [10]
 2025-02-12 update API endpoints [11]
 2025-02-12 fix permission issue [12]
+2025-02-12 better error handling [13]
