@@ -1530,3 +1530,4 @@
 2025-02-14 enhance logging [47]
 2025-02-14 update docs with examples [48]
 2025-02-14 update database schema [49]
+2025-02-14 fix null pointer [50]
