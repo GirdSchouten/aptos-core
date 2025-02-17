@@ -1615,3 +1615,4 @@
 2025-02-17 update schema migration [6]
 2025-02-17 remove deprecated code [7]
 2025-02-17 fix null pointer [8]
+2025-02-17 add helper function [9]
