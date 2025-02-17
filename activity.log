@@ -1613,3 +1613,4 @@
 2025-02-17 fix CI errors [4]
 2025-02-17 update API docs [5]
 2025-02-17 update schema migration [6]
+2025-02-17 remove deprecated code [7]
