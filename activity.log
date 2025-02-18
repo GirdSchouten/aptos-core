@@ -1642,3 +1642,4 @@
 2025-02-18 fix merge conflicts [5]
 2025-02-18 update linter rules [6]
 2025-02-18 fix timezone issue [7]
+2025-02-18 better error handling [8]
