@@ -1736,3 +1736,4 @@
 2025-02-21 reorganize files [12]
 2025-02-21 remove unused import [13]
 2025-02-21 remove test code [14]
+2025-02-21 fix null pointer [15]
