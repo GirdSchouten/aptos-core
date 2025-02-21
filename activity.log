@@ -1764,3 +1764,4 @@
 2025-02-21 increase test coverage [40]
 2025-02-21 update schema migration [41]
 2025-02-21 better error handling [42]
+2025-02-21 fix crash issue [43]
