@@ -1859,3 +1859,4 @@
 2025-02-24 improve logging format [9]
 2025-02-24 simplify logic [10]
 2025-02-24 fix CI errors [11]
+2025-02-24 fix build error [12]
