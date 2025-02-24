@@ -1864,3 +1864,4 @@
 2025-02-24 add logging [14]
 2025-02-24 update comments [15]
 2025-02-24 add unit tests [16]
+2025-02-24 fix null pointer [17]
