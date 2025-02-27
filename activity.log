@@ -1998,3 +1998,4 @@
 2025-02-27 small refactor [14]
 2025-02-27 update schema migration [15]
 2025-02-27 update configs for prod [16]
+2025-02-27 add logging [17]
