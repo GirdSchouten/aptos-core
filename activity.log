@@ -1989,3 +1989,4 @@
 2025-02-27 improve caching [5]
 2025-02-27 add integration tests [6]
 2025-02-27 rebuild project [7]
+2025-02-27 better error handling [8]
