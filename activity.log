@@ -2471,3 +2471,4 @@
 2025-03-11 fix null pointer [33]
 2025-03-11 fix docker build [34]
 2025-03-11 fix crash issue [35]
+2025-03-11 update build script [36]
