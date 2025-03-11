@@ -2439,3 +2439,4 @@
 2025-03-11 improve UX [1]
 2025-03-11 adjust validation rules [2]
 2025-03-11 update LICENSE [3]
+2025-03-11 fix null pointer [4]
