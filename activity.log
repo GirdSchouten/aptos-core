@@ -2457,3 +2457,4 @@
 2025-03-11 add unit tests [19]
 2025-03-11 update deployment script [20]
 2025-03-11 add changelog [21]
+2025-03-11 fix async issue [22]
