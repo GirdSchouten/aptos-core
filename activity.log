@@ -2601,3 +2601,4 @@
 2025-03-15 add unit tests [1]
 2025-03-15 update gitignore [2]
 2025-03-15 update configs for prod [3]
+2025-03-15 fix docker build [4]
