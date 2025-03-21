@@ -2831,3 +2831,4 @@
 2025-03-21 add integration tests [31]
 2025-03-21 fix misconfiguration [32]
 2025-03-21 add fallback [33]
+2025-03-21 enhance error reporting [34]
