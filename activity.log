@@ -2934,3 +2934,4 @@
 2025-03-24 better error handling [23]
 2025-03-24 remove legacy code [24]
 2025-03-24 minor refactor [25]
+2025-03-24 fix config bug [26]
