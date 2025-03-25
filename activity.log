@@ -2957,3 +2957,4 @@
 2025-03-24 update gitignore [46]
 2025-03-24 tweak configs [47]
 2025-03-25 adjust validation rules [1]
+2025-03-25 fix null pointer [2]
