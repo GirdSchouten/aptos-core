@@ -3223,3 +3223,4 @@
 2025-04-03 fix edge case [3]
 2025-04-03 add integration tests [4]
 2025-04-03 fix warnings [5]
+2025-04-03 update schema migration [6]
