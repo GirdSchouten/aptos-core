@@ -3499,3 +3499,4 @@
 2025-04-11 update configs for prod [13]
 2025-04-11 update build script [14]
 2025-04-11 clean project structure [15]
+2025-04-11 better error handling [16]
