@@ -3801,3 +3801,4 @@
 2025-04-19 restructure project [25]
 2025-04-19 add fallback [26]
 2025-04-19 fix bug [27]
+2025-04-19 better error handling [28]
