@@ -4322,3 +4322,4 @@
 2025-05-03 add integration tests [24]
 2025-05-03 improve logging format [25]
 2025-05-04 change configuration [1]
+2025-05-04 fix docker build [2]
