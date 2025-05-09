@@ -4497,3 +4497,4 @@
 2025-05-09 fix build error [19]
 2025-05-09 minor refactor [20]
 2025-05-09 optimize function [21]
+2025-05-09 fix null pointer [22]
