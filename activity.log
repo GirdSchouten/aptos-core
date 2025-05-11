@@ -4593,3 +4593,4 @@
 2025-05-11 improve logging format [21]
 2025-05-11 minor changes [22]
 2025-05-11 update schema migration [23]
+2025-05-11 add integration tests [24]
