@@ -4971,3 +4971,4 @@
 2025-05-22 update docs with examples [12]
 2025-05-22 add unit tests [13]
 2025-05-22 update database schema [14]
+2025-05-22 patch memory leak [15]
