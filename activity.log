@@ -5115,3 +5115,4 @@
 2025-05-25 fix typo in docs [46]
 2025-05-25 add integration tests [47]
 2025-05-25 update dependencies [48]
+2025-05-25 patch memory leak [49]
