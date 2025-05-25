@@ -5103,3 +5103,4 @@
 2025-05-25 fix bug [34]
 2025-05-25 adjust error messages [35]
 2025-05-25 stabilize build [36]
+2025-05-25 improve logging format [37]
