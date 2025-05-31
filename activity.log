@@ -5281,3 +5281,4 @@
 2025-05-30 add integration tests [36]
 2025-05-31 improve caching [1]
 2025-05-31 fix config bug [2]
+2025-05-31 remove deprecated code [3]
