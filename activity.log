@@ -5361,3 +5361,4 @@
 2025-06-02 fix async issue [26]
 2025-06-02 cleanup dependencies [27]
 2025-06-02 patch memory leak [28]
+2025-06-02 add unit tests [29]
