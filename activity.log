@@ -5366,3 +5366,4 @@
 2025-06-02 cleanup dependencies [31]
 2025-06-02 update LICENSE [32]
 2025-06-02 fix broken link [33]
+2025-06-02 fix null pointer [34]
