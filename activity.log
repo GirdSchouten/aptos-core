@@ -5371,3 +5371,4 @@
 2025-06-02 fix CI errors [36]
 2025-06-03 fix warnings [1]
 2025-06-03 fix docker build [2]
+2025-06-03 better error handling [3]
