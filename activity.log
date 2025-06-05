@@ -5458,3 +5458,4 @@
 2025-06-05 upgrade dependencies [5]
 2025-06-05 fix build error [6]
 2025-06-05 fix docker build [7]
+2025-06-05 enhance logging [8]
