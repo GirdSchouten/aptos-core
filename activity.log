@@ -5586,3 +5586,4 @@
 2025-06-09 fix CI errors [26]
 2025-06-09 update configs [27]
 2025-06-09 optimize queries [28]
+2025-06-09 better error handling [29]
