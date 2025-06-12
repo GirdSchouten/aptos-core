@@ -5665,3 +5665,4 @@
 2025-06-12 patch memory leak [8]
 2025-06-12 fix typo in docs [9]
 2025-06-12 increase test coverage [10]
+2025-06-12 fix encoding issue [11]
