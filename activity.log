@@ -5897,3 +5897,4 @@
 2025-06-18 update constants [1]
 2025-06-18 improve caching [2]
 2025-06-18 update configs [3]
+2025-06-18 fix null pointer [4]
