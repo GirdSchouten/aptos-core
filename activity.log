@@ -5992,3 +5992,4 @@
 2025-06-20 improve logging format [31]
 2025-06-20 upgrade dependencies [32]
 2025-06-20 clean project structure [33]
+2025-06-20 add integration tests [34]
