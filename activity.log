@@ -6061,3 +6061,4 @@
 2025-06-22 minor refactor [23]
 2025-06-22 add tests [24]
 2025-06-22 fix crash issue [25]
+2025-06-22 patch memory leak [26]
