@@ -6141,3 +6141,4 @@
 2025-06-25 fix build error [13]
 2025-06-25 fix typo in code [14]
 2025-06-25 adjust error messages [15]
+2025-06-25 better error handling [16]
