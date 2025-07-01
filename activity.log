@@ -6353,3 +6353,4 @@
 2025-07-01 fix crash issue [16]
 2025-07-01 cleanup dependencies [17]
 2025-07-01 reorganize files [18]
+2025-07-01 better error handling [19]
