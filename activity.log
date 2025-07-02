@@ -6393,3 +6393,4 @@
 2025-07-02 improve security [19]
 2025-07-02 update dependencies [20]
 2025-07-02 fix docker build [21]
+2025-07-02 fix permission issue [22]
