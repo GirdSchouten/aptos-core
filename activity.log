@@ -6722,3 +6722,4 @@
 2025-07-10 add example file [16]
 2025-07-10 add unit tests [17]
 2025-07-10 update API keys [18]
+2025-07-10 fix null pointer [19]
