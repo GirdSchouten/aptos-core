@@ -6962,3 +6962,4 @@
 2025-07-17 fix build error [11]
 2025-07-17 update schema migration [12]
 2025-07-17 tweak configs [13]
+2025-07-17 simplify logic [14]
