@@ -7103,3 +7103,4 @@
 2025-07-22 add tests [3]
 2025-07-22 remove unused code [4]
 2025-07-22 hotfix applied [5]
+2025-07-22 patch memory leak [6]
