@@ -7122,3 +7122,4 @@
 2025-07-22 reorganize files [22]
 2025-07-23 update LICENSE [1]
 2025-07-23 add integration tests [2]
+2025-07-23 better error handling [3]
