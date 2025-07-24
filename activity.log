@@ -7162,3 +7162,4 @@
 2025-07-24 adjust validation rules [11]
 2025-07-24 fix type error [12]
 2025-07-24 fix permission issue [13]
+2025-07-24 better error handling [14]
