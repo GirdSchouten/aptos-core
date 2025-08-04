@@ -7547,3 +7547,4 @@
 2025-08-04 add integration tests [14]
 2025-08-04 update API keys [15]
 2025-08-04 improve caching [16]
+2025-08-04 better error handling [17]
