@@ -7566,3 +7566,4 @@
 2025-08-04 fix permission issue [33]
 2025-08-04 add tests [34]
 2025-08-04 style improvements [35]
+2025-08-04 fix docker build [36]
