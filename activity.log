@@ -7616,3 +7616,4 @@
 2025-08-05 remove deprecated code [45]
 2025-08-05 update docs with examples [46]
 2025-08-05 update gitignore [47]
+2025-08-05 add integration tests [48]
