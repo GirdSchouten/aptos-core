@@ -7640,3 +7640,4 @@
 2025-08-06 adjust error messages [19]
 2025-08-06 improve caching [20]
 2025-08-06 restructure modules [21]
+2025-08-06 add helper function [22]
