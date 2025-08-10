@@ -7743,3 +7743,4 @@
 2025-08-10 better error handling [8]
 2025-08-10 fix crash issue [9]
 2025-08-10 upgrade dependencies [10]
+2025-08-10 add integration tests [11]
