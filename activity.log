@@ -7825,3 +7825,4 @@
 2025-08-12 update API endpoints [19]
 2025-08-12 update build script [20]
 2025-08-12 update gitignore [21]
+2025-08-12 fix docker build [22]
