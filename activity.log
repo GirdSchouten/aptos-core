@@ -7906,3 +7906,4 @@
 2025-08-15 better defaults [20]
 2025-08-15 fix encoding issue [21]
 2025-08-15 update schema migration [22]
+2025-08-15 update configs for prod [23]
