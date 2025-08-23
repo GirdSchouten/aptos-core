@@ -8151,3 +8151,4 @@
 2025-08-23 remove test code [22]
 2025-08-23 fix docker build [23]
 2025-08-23 enhance logging [24]
+2025-08-23 fix config bug [25]
