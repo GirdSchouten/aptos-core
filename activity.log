@@ -8197,3 +8197,4 @@
 2025-08-24 fix timezone issue [34]
 2025-08-24 update deployment script [35]
 2025-08-24 remove test code [36]
+2025-08-24 add helper function [37]
