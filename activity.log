@@ -8300,3 +8300,4 @@
 2025-08-28 patch memory leak [11]
 2025-08-28 update headers [12]
 2025-08-28 fix warnings [13]
+2025-08-28 better error handling [14]
