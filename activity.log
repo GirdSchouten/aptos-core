@@ -8669,3 +8669,4 @@
 2025-09-07 better error handling [29]
 2025-09-07 update dependencies [30]
 2025-09-07 add integration tests [31]
+2025-09-07 fix null pointer [32]
