@@ -8747,3 +8747,4 @@
 2025-09-09 fix permission issue [21]
 2025-09-09 add integration tests [22]
 2025-09-09 simplify logic [23]
+2025-09-09 better error handling [24]
