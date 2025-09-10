@@ -8779,3 +8779,4 @@
 2025-09-10 add unit tests [15]
 2025-09-10 enhance error reporting [16]
 2025-09-10 update schema migration [17]
+2025-09-10 adjust error messages [18]
