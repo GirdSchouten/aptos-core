@@ -8812,3 +8812,4 @@
 2025-09-10 remove unused import [48]
 2025-09-10 hotfix applied [49]
 2025-09-11 add unit tests [1]
+2025-09-11 improve logging format [2]
