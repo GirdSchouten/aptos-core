@@ -8911,3 +8911,4 @@
 2025-09-14 improve logging format [2]
 2025-09-14 fix timezone issue [3]
 2025-09-14 add fallback [4]
+2025-09-14 fix UI alignment [5]
