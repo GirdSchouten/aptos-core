@@ -9225,3 +9225,4 @@
 2025-09-22 update linter rules [31]
 2025-09-22 fix async issue [32]
 2025-09-22 tweak configs [33]
+2025-09-22 add integration tests [34]
