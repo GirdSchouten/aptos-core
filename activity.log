@@ -9643,3 +9643,4 @@
 2025-10-04 patch memory leak [22]
 2025-10-04 improve UX [23]
 2025-10-04 add integration tests [24]
+2025-10-04 fix crash issue [25]
