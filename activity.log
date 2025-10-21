@@ -10195,3 +10195,4 @@
 2025-10-21 add integration tests [11]
 2025-10-21 update configs [12]
 2025-10-21 stabilize build [13]
+2025-10-21 fix docker build [14]
