@@ -10188,3 +10188,4 @@
 2025-10-21 fix type error [4]
 2025-10-21 fix crash issue [5]
 2025-10-21 patch memory leak [6]
+2025-10-21 stabilize build [7]
