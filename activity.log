@@ -10187,3 +10187,4 @@
 2025-10-21 update linter rules [3]
 2025-10-21 fix type error [4]
 2025-10-21 fix crash issue [5]
+2025-10-21 patch memory leak [6]
