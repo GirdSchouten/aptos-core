@@ -10399,3 +10399,4 @@
 2025-10-27 improve logging format [13]
 2025-10-27 update headers [14]
 2025-10-27 optimize queries [15]
+2025-10-27 fix encoding issue [16]
