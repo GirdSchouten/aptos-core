@@ -10392,3 +10392,4 @@
 2025-10-27 fix config bug [6]
 2025-10-27 improve UX [7]
 2025-10-27 update API docs [8]
+2025-10-27 better error handling [9]
