@@ -10433,3 +10433,4 @@
 2025-10-27 fix null pointer [47]
 2025-10-27 update configs for prod [48]
 2025-10-27 update schema migration [49]
+2025-10-28 fix permission issue [1]
