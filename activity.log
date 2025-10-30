@@ -10518,3 +10518,4 @@
 2025-10-30 improve logging format [12]
 2025-10-30 fix timezone issue [13]
 2025-10-30 cleanup dependencies [14]
+2025-10-30 fix async issue [15]
