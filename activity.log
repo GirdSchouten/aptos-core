@@ -10559,3 +10559,4 @@
 2025-10-31 remove unused import [21]
 2025-10-31 cleanup dependencies [22]
 2025-10-31 update schema migration [23]
+2025-10-31 fix CI errors [24]
