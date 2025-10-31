@@ -10561,3 +10561,4 @@
 2025-10-31 update schema migration [23]
 2025-10-31 fix CI errors [24]
 2025-10-31 adjust validation rules [25]
+2025-10-31 fix misconfiguration [26]
