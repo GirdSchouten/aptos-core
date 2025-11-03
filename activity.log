@@ -10663,3 +10663,4 @@
 2025-11-02 fix async issue [32]
 2025-11-03 add logging [1]
 2025-11-03 add comments [2]
+2025-11-03 improve logging format [3]
