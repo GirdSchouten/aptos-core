@@ -10684,3 +10684,4 @@
 2025-11-03 remove test code [21]
 2025-11-03 fix edge case [22]
 2025-11-03 add unit tests [23]
+2025-11-03 fix build error [24]
