@@ -10665,3 +10665,4 @@
 2025-11-03 add comments [2]
 2025-11-03 improve logging format [3]
 2025-11-03 fix timezone issue [4]
+2025-11-03 add helper function [5]
