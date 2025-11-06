@@ -10767,3 +10767,4 @@
 2025-11-06 remove test code [5]
 2025-11-06 update schema migration [6]
 2025-11-06 improve logging format [7]
+2025-11-06 upgrade dependencies [8]
