@@ -10883,3 +10883,4 @@
 2025-11-08 remove unused import [27]
 2025-11-08 rebuild project [28]
 2025-11-08 improve logging format [29]
+2025-11-08 update schema migration [30]
