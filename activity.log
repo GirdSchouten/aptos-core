@@ -11277,3 +11277,4 @@
 2025-11-19 fix crash issue [33]
 2025-11-19 fix null pointer [34]
 2025-11-19 add integration tests [35]
+2025-11-19 improve logging format [36]
