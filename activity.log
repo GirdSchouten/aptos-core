@@ -11389,3 +11389,4 @@
 2025-11-23 fix async issue [17]
 2025-11-23 update deployment script [18]
 2025-11-23 style improvements [19]
+2025-11-23 add fallback [20]
