@@ -11392,3 +11392,4 @@
 2025-11-23 add fallback [20]
 2025-11-23 improve security [21]
 2025-11-23 update API docs [22]
+2025-11-23 fix encoding issue [23]
