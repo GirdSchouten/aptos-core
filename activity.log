@@ -11474,3 +11474,4 @@
 2025-11-25 improve logging format [46]
 2025-11-25 fix async issue [47]
 2025-11-25 fix docker build [48]
+2025-11-25 add tests [49]
