@@ -11551,3 +11551,4 @@
 2025-11-28 fix null pointer [17]
 2025-11-28 update API keys [18]
 2025-11-28 update database schema [19]
+2025-11-28 adjust validation rules [20]
