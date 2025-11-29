@@ -11572,3 +11572,4 @@
 2025-11-29 simplify logic [5]
 2025-11-29 update database schema [6]
 2025-11-29 patch memory leak [7]
+2025-11-29 remove legacy code [8]
