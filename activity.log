@@ -11822,3 +11822,4 @@
 2025-12-06 fix permission issue [10]
 2025-12-06 remove unused code [11]
 2025-12-06 update schema migration [12]
+2025-12-06 better error handling [13]
