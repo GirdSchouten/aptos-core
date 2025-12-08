@@ -11914,3 +11914,4 @@
 2025-12-08 patch memory leak [14]
 2025-12-08 enhance logging [15]
 2025-12-08 update docs with examples [16]
+2025-12-08 fix config bug [17]
