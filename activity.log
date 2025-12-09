@@ -11927,3 +11927,4 @@
 2025-12-08 fix timezone issue [27]
 2025-12-08 fix async issue [28]
 2025-12-08 update gitignore [29]
+2025-12-09 enhance error reporting [1]
