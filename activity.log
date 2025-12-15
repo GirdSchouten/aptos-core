@@ -12134,3 +12134,4 @@
 2025-12-14 fix encoding issue [44]
 2025-12-15 update API keys [1]
 2025-12-15 UI improvements [2]
+2025-12-15 better error handling [3]
