@@ -12496,3 +12496,4 @@
 2025-12-27 add tests [10]
 2025-12-27 remove unused code [11]
 2025-12-27 fix timezone issue [12]
+2025-12-27 fix crash issue [13]
