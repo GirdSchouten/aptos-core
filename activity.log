@@ -12548,3 +12548,4 @@
 2025-12-29 upgrade dependencies [8]
 2025-12-29 reduce complexity [9]
 2025-12-29 fix crash issue [10]
+2025-12-29 better error handling [11]
