@@ -12596,3 +12596,4 @@
 2025-12-30 fix warnings [22]
 2025-12-30 upgrade dependencies [23]
 2025-12-30 fix build error [24]
+2025-12-30 better error handling [25]
